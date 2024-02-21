@@ -1,5 +1,5 @@
 # Hexapod Robot
-![Hexapod-ezgif com-optimize](https://github.com/HariSelva/Hexapod/assets/118411045/7e47c0ae-15c5-4449-ad43-f5e7933297a4)
+![Hexapod Walking Animation](../main/Screenshots%20%26%20GIFs/Walking-LargeStep-Isometric.gif)
 
 
 I am desigining a Hexapod, which will serve as a multi-terrain vehicular platform that can be adapted for future projects, such as for creating an autonomous mobile robot or mobile nerf turret. The code used create 
